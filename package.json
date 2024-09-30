@@ -4,12 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests specified\"",
+    "build": "echo 'No build process defined yet'"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.21.0"
-  }
+  "license": "ISC"
 }
