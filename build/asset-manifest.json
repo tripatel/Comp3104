@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27ca76a1.css",
-    "main.js": "/static/js/main.0b8833e1.js",
-    "static/js/453.54e82f9a.chunk.js": "/static/js/453.54e82f9a.chunk.js",
-    "index.html": "/index.html",
-    "main.27ca76a1.css.map": "/static/css/main.27ca76a1.css.map",
-    "main.0b8833e1.js.map": "/static/js/main.0b8833e1.js.map",
-    "453.54e82f9a.chunk.js.map": "/static/js/453.54e82f9a.chunk.js.map"
+    "main.css": "/tripatel/Comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/tripatel/Comp3104/static/js/main.7f2cecfa.js",
+    "static/js/453.54e82f9a.chunk.js": "/tripatel/Comp3104/static/js/453.54e82f9a.chunk.js",
+    "index.html": "/tripatel/Comp3104/index.html",
+    "main.27ca76a1.css.map": "/tripatel/Comp3104/static/css/main.27ca76a1.css.map",
+    "main.7f2cecfa.js.map": "/tripatel/Comp3104/static/js/main.7f2cecfa.js.map",
+    "453.54e82f9a.chunk.js.map": "/tripatel/Comp3104/static/js/453.54e82f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.0b8833e1.js"
+    "static/js/main.7f2cecfa.js"
   ]
 }
