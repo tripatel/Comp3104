@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tripatel/Comp3104/static/css/main.27ca76a1.css",
-    "main.js": "/tripatel/Comp3104/static/js/main.e0a02bdd.js",
-    "static/js/453.54e82f9a.chunk.js": "/tripatel/Comp3104/static/js/453.54e82f9a.chunk.js",
-    "index.html": "/tripatel/Comp3104/index.html",
-    "main.27ca76a1.css.map": "/tripatel/Comp3104/static/css/main.27ca76a1.css.map",
-    "main.e0a02bdd.js.map": "/tripatel/Comp3104/static/js/main.e0a02bdd.js.map",
-    "453.54e82f9a.chunk.js.map": "/tripatel/Comp3104/static/js/453.54e82f9a.chunk.js.map"
+    "main.css": "/101412123_comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/101412123_comp3104/static/js/main.55df1088.js",
+    "static/js/453.54e82f9a.chunk.js": "/101412123_comp3104/static/js/453.54e82f9a.chunk.js",
+    "index.html": "/101412123_comp3104/index.html",
+    "main.27ca76a1.css.map": "/101412123_comp3104/static/css/main.27ca76a1.css.map",
+    "main.55df1088.js.map": "/101412123_comp3104/static/js/main.55df1088.js.map",
+    "453.54e82f9a.chunk.js.map": "/101412123_comp3104/static/js/453.54e82f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.e0a02bdd.js"
+    "static/js/main.55df1088.js"
   ]
 }
